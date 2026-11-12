@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Canteen",
+  "description": "AI-Powered Canteen Pre-Ordering, Slot Booking & Smart Kitchen Management System",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
